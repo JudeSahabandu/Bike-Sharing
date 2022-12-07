@@ -1,5 +1,5 @@
 # Visualizing Bike Sharing Data for NYC
---
+
 ## Overview of the Analysis
 
 The purpose of the project is to explore the possibilty of establishing a bike sharing service in Des Moines, Iowa. The data used to determine user behaviour is from New York City (Citi-Bike) user information, which can be used as indicative data to enable business decisions to be made for the execution of the Des Moines, bike share project plan.
